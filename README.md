@@ -1,1 +1,2 @@
-# homework.1
+open untitled2.Rproj file in RStudio by double clicking.
+
